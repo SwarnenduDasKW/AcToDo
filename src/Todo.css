@@ -1,0 +1,7 @@
+.todo__listoftodos {
+    width: 700px;
+}
+
+.todo__list {
+    display: flex;
+}
